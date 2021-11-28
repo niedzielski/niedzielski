@@ -1,1 +1,3 @@
-Hi, I'm Stephen Niedzielski. I write programs here and at [**oidoid**](https://oidoid.com). Connect with me on [**LinkedIn**](https://www.linkedin.com/in/sniedzie) or correspond via [**email**](mailto:stephen@niedzielski.com).
+Hi, I'm Stephen Niedzielski. I write programs here and at [**oidoid**](https://oidoid.com). I'm currently developing Nature Elsewhere, an isometric adventure game.
+
+Connect with me on [**LinkedIn**](https://www.linkedin.com/in/sniedzie) or correspond via [**email**](mailto:stephen@niedzielski.com).
