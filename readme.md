@@ -1,1 +1,1 @@
-Hi, I'm Stephen. I write programs here, [**oidoid**](https://github.com/oidoid), and [**Reddit**](https://github.com/reddit). I'm currently writing [**void**](https://github.com/oidoid/void), a minimal 2D game engine.
+Hi, I'm Stephen. I write programs at [**oidoid**](https://github.com/oidoid), [**Reddit**](https://github.com/reddit), and here. I'm currently making [**void**](https://github.com/oidoid/void), a minimal 2D game engine.
